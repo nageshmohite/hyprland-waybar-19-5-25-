@@ -1,0 +1,1 @@
+# hyprland-waybar-19-5-25-
